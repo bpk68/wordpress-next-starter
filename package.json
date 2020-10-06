@@ -14,7 +14,7 @@
     "react-dom": "16.13.1"
   },
   "devDependencies": {
-    "axios": "^0.20.0",
-    "dotenv": "^8.2.0"
+    "axios": "0.20.0",
+    "dotenv": "8.2.0"
   }
 }
